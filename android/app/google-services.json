@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665593067845",
+    "project_id": "stock-management-e0156",
+    "storage_bucket": "stock-management-e0156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665593067845:android:84fbe39cf555fd98a1662c",
+        "android_client_info": {
+          "package_name": "faul.lillien.stock_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665593067845-ebn5nelqvulgivssb4gpfjrrkct8e6sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUc25U0GL-Acpgqy7EK4PULJQt3ICv3W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665593067845-ebn5nelqvulgivssb4gpfjrrkct8e6sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
